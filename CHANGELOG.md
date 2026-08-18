@@ -3,6 +3,18 @@
 All notable changes to Phux Cockpit are documented in this file. The project
 uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.12.0](https://github.com/phall1/phux-cockpit/compare/v0.11.0...v0.12.0) (2026-08-18)
+
+
+### Features
+
+* establish durable work foundation ([#49](https://github.com/phall1/phux-cockpit/issues/49)) ([8c4e2db](https://github.com/phall1/phux-cockpit/commit/8c4e2dbc444616de34471b5904f0850849fd62a9))
+
+
+### Bug Fixes
+
+* restore durable work authority boundary ([#51](https://github.com/phall1/phux-cockpit/issues/51)) ([8083cec](https://github.com/phall1/phux-cockpit/commit/8083cec734c9710adaa9574016a893e8a1c20868))
+
 ## [0.11.0](https://github.com/phall1/phux-cockpit/compare/v0.10.0...v0.11.0) (2026-08-16)
 
 
